@@ -1,0 +1,15 @@
+{
+    "value_iteration_iterations": 31,
+    "q_iteration_iterations": 31,
+    "policy_match": 25,
+    "policy_total_states": 25,
+    "policy_difference": 0,
+    "vi_value_range": [
+        0.0,
+        9.15976559844751
+    ],
+    "qi_value_range": [
+        0.0,
+        9.15976559844751
+    ]
+}
