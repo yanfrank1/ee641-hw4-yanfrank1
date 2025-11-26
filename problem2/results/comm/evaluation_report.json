@@ -1,0 +1,165 @@
+{
+  "performance": {
+    "num_episodes": 100,
+    "mean_reward": -4.791999999999999,
+    "success_rate": 0.0,
+    "mean_steps": 48.55,
+    "mean_steps_success": null,
+    "mean_one_success": 0.6666666666666666,
+    "mean_both_success": null,
+    "coordination_delay_mean": null,
+    "coordination_delay_std": null
+  },
+  "communication": {
+    "num_episodes": 20,
+    "num_samples": 1000,
+    "mean_comm_A": 0.8221306204795837,
+    "std_comm_A": 0.271369069814682,
+    "min_comm_A": 0.10724596679210663,
+    "max_comm_A": 0.9941493272781372,
+    "corr_comm_A": 0.018525416348297904,
+    "mean_comm_B": 0.520133376121521,
+    "std_comm_B": 0.015434220433235168,
+    "min_comm_B": 0.43565091490745544,
+    "max_comm_B": 0.5466834306716919,
+    "corr_comm_B": 0.37855622179275505
+  },
+  "generalization": {
+    "num_configs": 10,
+    "base_env_performance": {
+      "num_episodes": 100,
+      "mean_reward": -4.789999999999999,
+      "success_rate": 0.0,
+      "mean_steps": 48.53,
+      "mean_steps_success": null,
+      "mean_one_success": 0.0,
+      "mean_both_success": null,
+      "coordination_delay_mean": null,
+      "coordination_delay_std": null
+    },
+    "configs": [
+      {
+        "num_episodes": 100,
+        "mean_reward": -4.518999999999999,
+        "success_rate": 0.0,
+        "mean_steps": 46.66,
+        "mean_steps_success": null,
+        "mean_one_success": 1.2857142857142858,
+        "mean_both_success": null,
+        "coordination_delay_mean": null,
+        "coordination_delay_std": null,
+        "config_id": 0
+      },
+      {
+        "num_episodes": 100,
+        "mean_reward": -2.1399999999999992,
+        "success_rate": 0.0,
+        "mean_steps": 30.85,
+        "mean_steps_success": null,
+        "mean_one_success": 6.444444444444445,
+        "mean_both_success": null,
+        "coordination_delay_mean": null,
+        "coordination_delay_std": null,
+        "config_id": 1
+      },
+      {
+        "num_episodes": 100,
+        "mean_reward": -4.789999999999999,
+        "success_rate": 0.0,
+        "mean_steps": 48.53,
+        "mean_steps_success": null,
+        "mean_one_success": 0.0,
+        "mean_both_success": null,
+        "coordination_delay_mean": null,
+        "coordination_delay_std": null,
+        "config_id": 2
+      },
+      {
+        "num_episodes": 100,
+        "mean_reward": -3.9899999999999993,
+        "success_rate": 0.0,
+        "mean_steps": 43.05,
+        "mean_steps_success": null,
+        "mean_one_success": 2.6666666666666665,
+        "mean_both_success": null,
+        "coordination_delay_mean": null,
+        "coordination_delay_std": null,
+        "config_id": 3
+      },
+      {
+        "num_episodes": 100,
+        "mean_reward": -4.074999999999999,
+        "success_rate": 0.0,
+        "mean_steps": 43.69,
+        "mean_steps_success": null,
+        "mean_one_success": 3.9285714285714284,
+        "mean_both_success": null,
+        "coordination_delay_mean": null,
+        "coordination_delay_std": null,
+        "config_id": 4
+      },
+      {
+        "num_episodes": 100,
+        "mean_reward": -4.021,
+        "success_rate": 0.0,
+        "mean_steps": 43.36,
+        "mean_steps_success": null,
+        "mean_one_success": 4.733333333333333,
+        "mean_both_success": null,
+        "coordination_delay_mean": null,
+        "coordination_delay_std": null,
+        "config_id": 5
+      },
+      {
+        "num_episodes": 100,
+        "mean_reward": -4.792999999999999,
+        "success_rate": 0.0,
+        "mean_steps": 48.56,
+        "mean_steps_success": null,
+        "mean_one_success": 1.0,
+        "mean_both_success": null,
+        "coordination_delay_mean": null,
+        "coordination_delay_std": null,
+        "config_id": 6
+      },
+      {
+        "num_episodes": 100,
+        "mean_reward": -4.5889999999999995,
+        "success_rate": 0.0,
+        "mean_steps": 47.15,
+        "mean_steps_success": null,
+        "mean_one_success": 1.5,
+        "mean_both_success": null,
+        "coordination_delay_mean": null,
+        "coordination_delay_std": null,
+        "config_id": 7
+      },
+      {
+        "num_episodes": 100,
+        "mean_reward": -2.4759999999999986,
+        "success_rate": 0.0,
+        "mean_steps": 32.95,
+        "mean_steps_success": null,
+        "mean_one_success": 5.282051282051282,
+        "mean_both_success": null,
+        "coordination_delay_mean": null,
+        "coordination_delay_std": null,
+        "config_id": 8
+      },
+      {
+        "num_episodes": 100,
+        "mean_reward": -4.199,
+        "success_rate": 0.0,
+        "mean_steps": 44.51,
+        "mean_steps_success": null,
+        "mean_one_success": 3.25,
+        "mean_both_success": null,
+        "coordination_delay_mean": null,
+        "coordination_delay_std": null,
+        "config_id": 9
+      }
+    ],
+    "mean_generalization_success_rate": 0.0,
+    "mean_generalization_reward": -3.959199999999999
+  }
+}
